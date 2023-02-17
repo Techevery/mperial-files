@@ -1,0 +1,9 @@
+<div class="error"><h1>Error</h1><p><strong>Static analysis:</strong></p><p>1 errors were found during analysis.</p><p><ol><li>An expression was expected. (near "FROM" at position 8)</li></ol></p><p><strong>SQL query:</strong>
+<a href="./url.php?url=https%3A%2F%2Fdev.mysql.com%2Fdoc%2Frefman%2F5.7%2Fen%2Fselect.html" target="mysql_doc"><img src="themes/dot.gif" title="Documentation" alt="Documentation" class="icon ic_b_help" /></a><a href="server_sql.php?sql_query=SELECT++FROM+%60techwwpp_wp713%60.%60wp6h_postmeta%60&amp;show_query=1"><span class="nowrap"><img src="themes/dot.gif" title="Edit" alt="Edit" class="icon ic_b_edit" />&nbsp;Edit</span></a>    </p>
+<p>
+SELECT  FROM `techwwpp_wp713`.`wp6h_postmeta`
+</p>
+<p>
+    <strong>MySQL said: </strong><a href="./url.php?url=https%3A%2F%2Fdev.mysql.com%2Fdoc%2Frefman%2F5.7%2Fen%2Ferror-messages-server.html" target="mysql_doc"><img src="themes/dot.gif" title="Documentation" alt="Documentation" class="icon ic_b_help" /></a>
+</p>
+<code>#2006 - MySQL server has gone away</code><br/></div>

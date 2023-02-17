@@ -1,0 +1,3 @@
+git remote add origin ssh://67.223.118.29/2083/home/techwwpp/workstation
+
+ curl -i -u "techwwpp:ypr94xO7aTZI" -X PUT -d '' 'https://api.github.com/repos/techwwpp/freelancer/collaborators/Tmahn001'
